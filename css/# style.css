@@ -1,0 +1,15 @@
+/* Selecionando todos os parágrafos */
+p {
+  color: blue;
+  font-size: 16px;
+}
+
+/* Selecionando todos os elementos com a classe "destacar" */
+.destacar {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+body {
+  background-color: blue;
+}
